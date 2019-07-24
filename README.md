@@ -4,4 +4,8 @@ This is an SCCM task sequence pre-start GUI intended to capture data relevant to
 
 PreStart_PE provides the option to clean the hard drive (helpful in avoiding errors imaging a device with non-bitlocker encryption), maintaning direct associations after OSD, and configuring the PC as an autologon device using a domain account. 
 
+![PreStart PE](https://github.com/pdxcmug/PreStart-UI/blob/master/PE.PNG?raw=true)
+
 PreStart_Windows provides the option to backup user data before OSD, maintan direct associations after OSD, and configure the PC as an autologon device using a domain account. 
+
+![PreStart Windows](https://github.com/pdxcmug/PreStart-UI/blob/master/Windows.PNG?raw=true)
